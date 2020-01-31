@@ -1,9 +1,6 @@
 # Portfolio
  A rough portfolio of code and projects for those who would like to see them.  
  
- NOTE: Because this is a Cornell-only GitHub environment, this is not actually public-facing.
- It's been cloned to my personal GitHub page and will remain there.  
- 
  Within this repository you will find a number of course projects and associated code,
  as well as any paper preprints or published work I have produced.  
  
